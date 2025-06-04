@@ -1,0 +1,70 @@
+body {
+    width: 500px;
+    height: 225px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap; 
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: flex-start;
+    border: 1px solid rgb(75, 75, 75);
+    text-align: center;
+}
+
+header {
+    height: 40px;
+    width: 100%;
+    background-color: rgb(0, 238, 255);
+}
+
+nav {
+    height: 20px;
+    width: 100%;
+    background-color: rgb(255, 95, 95);
+}
+
+footer {
+    height: 30px;
+    width: 100%;
+    background-color: rgb(135, 255, 215);
+}
+
+section {
+    height: 40%;
+    width: 100%;
+    background-color: rgb(255, 253, 122);
+}
+
+aside {
+    height: 100px;
+    width: 30%;
+    background-color: rgb(255, 253, 122);
+}
+
+article {
+    height: 50%;
+    width: 100%;
+    background-color: rgb(255, 175, 228);
+}
+
+#div1 {
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+#div2 {
+    height: 100%;
+    width: 60%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: flex-start;
+}
