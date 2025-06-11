@@ -19,11 +19,13 @@ header {
     align-content: space-around;
     justify-content: space-around;
     column-gap: 80%;
+    border-radius: 5px;
 }
 
 nav {
     height: 25px;
     background-color: #fbff00;
+    border-radius: 5px;
 }
 
 main {
@@ -36,16 +38,19 @@ main {
     align-content: space-around;
     justify-content: space-around;
     align-items: center;
+    border-radius: 5px;
 }
 
 #fot {
     width: 100%;
     height: 25px;
     background-color: #ffa3d6;
+    border-radius: 5px;
 }
 
 #fotmain {
     width: 300px;
+    border-radius: 5px;
 }
 
 #div1 {
@@ -60,10 +65,12 @@ aside{
     width: 180px;
     height: 300px;
     background-color: #00c3ff;
+    border-radius: 5px;
 }
 
 footer {
     background-color: #ffa3d6;
+    border-radius: 5px;
 }
 
 article {
@@ -76,15 +83,18 @@ article {
     align-content: space-around;
     justify-content: space-around;
     align-items: flex-start;
+    border-radius: 5px;
 }
 
 .section-main {
     width: 280px;
     height: 55px;
+    border-radius: 5px;
 }
 
 section {
     background-color: #8bff95;
+    border-radius: 5px;
 }
 
 aside {
@@ -94,15 +104,18 @@ aside {
     align-items: flex-start;
     align-content: space-around;
     justify-content: space-around;
+    border-radius: 5px;
 }
 #aside-section {
     height: 40px;
     width: 170px;
+    border-radius: 5px;
 }
 
 #aside-section2 {
     height: 140px;
     width: 170px;
+    border-radius: 5px;
 }
 
 #divinvisiblexd {
