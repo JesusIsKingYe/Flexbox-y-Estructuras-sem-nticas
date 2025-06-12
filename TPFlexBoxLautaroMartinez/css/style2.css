@@ -14,15 +14,13 @@ header {
     height: 50px;
     background-color: #ff5959;
     display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
-    align-content: space-around;
-    justify-content: space-around;
-    column-gap: 80%;
-    border-radius: 5px;
+    justify-content: space-between;
+    align-items: center;
 }
 
 nav {
+    width: 100px;
     height: 25px;
     background-color: #fbff00;
     border-radius: 5px;
